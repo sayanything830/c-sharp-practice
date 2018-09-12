@@ -1,6 +1,6 @@
 # To Do App
 
-Written in C# with .Net Core
+Written in C# with .Net Core following [this](https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-vsc?view=aspnetcore-2.1) guide.
 
 ## Install and Get Started
 
